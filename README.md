@@ -19,7 +19,7 @@ CONTROLS: arrow keys to move, space bar to shoot, shift to slow down, control to
 -Shields the player can hide behind that stops all bullets
 -Included a give credit button so you can just upgrade your ship if you don't want to grind, but you ARE cheating just so you know :p
 
-
+Will be adding a youtube demo shortly.
 
 To run it just download it from here: https://www.dropbox.com/s/q5mbdyd201lvpzr/SpaceInvaders.rar?dl=0
 Extract it and run the .exe
